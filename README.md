@@ -1,2 +1,2 @@
-# COMP229001_W2026_Midterm_301514904
-my midterm
+# COMP229.F2025.Midterm.Template
+COMP229.F2025 - Midterm Template
